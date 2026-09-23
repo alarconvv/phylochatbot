@@ -4,3 +4,5 @@
 .Ruserdata
 .positai
 .env
+phyloSource/
+.DS_Store
